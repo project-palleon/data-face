@@ -1,0 +1,4 @@
+numpy==1.23.2
+Pillow==9.2.0
+palleon==1.0a1
+opencv-python=4.6.0.66
